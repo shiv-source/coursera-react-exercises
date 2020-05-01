@@ -1,3 +1,6 @@
+## Password Strength Checker :
+![Alt Text](https://raw.githubusercontent.com/shiv-source/coursera-react-exercises/master/screenshots/passwor_strength_checker_Recat.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
